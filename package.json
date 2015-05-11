@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "java": "^0.5.4",
-    "node-java": "^1.0.1"
+    "java": "^0.5.4"
   }
 }
